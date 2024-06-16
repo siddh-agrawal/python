@@ -1,0 +1,1 @@
+print("solution of ex 3 in day 27")
